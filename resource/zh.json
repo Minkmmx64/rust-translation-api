@@ -1,0 +1,129 @@
+{
+  "setting": {
+    "language": {
+      "index": "语言选择"
+    },
+    "device": {
+      "index": "设备选择"
+    },
+    "theme": {
+      "index": "主题切换"
+    },
+    "clearcache": {
+      "index": "清理缓存"
+    },
+    "layout": {
+      "index": "布局调整",
+      "change": "已调整布局为",
+      "lr": "左右翻转",
+      "tb": "上下翻转",
+      "horizon": "旋转180度",
+      "reset": "布局复位"
+    },
+    "schedule": {
+      "index": "定时任务",
+      "setrepeat": "设置重复日期",
+      "setaction": "执行动作",
+      "update": "修改定时任务",
+      "add": "添加定时任务",
+      "actionon": "开灯",
+      "actionoff": "关灯",
+      "none": "今天已经没有需要执行的任务"
+    },
+    "name": {
+      "index": "名称设置"
+    },
+    "security": {
+      "index": "安全密码",
+      "inputnewpsd": "请输入密码",
+      "inputnewpsd_re": "请再次输入密码",
+      "inputoldpsd": "请输入原密码",
+      "add": "添加密码",
+      "clear": "清除密码",
+      "update": "修改密码",
+      "regexp": {
+        "error_origin": "密码为4-16个字符",
+        "error_new": "新密码为空或者4-16个字符",
+        "error_eq": "两次密码不一致",
+        "error_old_valid": "请输入有效的原密码",
+        "error_old_eq": "请输入正确的原密码",
+        "success": "设置密码完成"
+      }
+    },
+    "parameter": {
+      "index": "控制器参数"
+    },
+    "reboot": {
+      "index": "重启"
+    },
+    "ota": {
+      "index": "OTA 升级",
+      "no": "当前连接设备编号",
+      "model": "设备型号",
+      "version": "当前版本号",
+      "new_version": "最新版本号",
+      "date": "版本日期",
+      "describe": "版本更新说明",
+      "tip": "注意:更新后将重启控制器，连接后查看是否更新成功",
+      "upgrade": "立即更新"
+    },
+    "recovery": {
+      "index": "出厂初始化"
+    }
+  },
+  "device": {
+    "connect": "连接",
+    "connecting": "正在连接",
+    "connect_success": "连接成功",
+    "disconnect": "连接断开",
+    "select": "设备选择"
+  },
+  "ctrl": {
+    "tools": {
+      "twinkle": "闪一下",
+      "repeat": "循环",
+      "fixed": "固定",
+      "setplaymode": "设置播放模式为",
+      "poweron": "已开机",
+      "poweroff": "已关机",
+      "shakeon": "开启摇一摇模式",
+      "shakeoff": "关闭摇一摇模式",
+      "light": "设置亮度",
+      "speed": "设置速度",
+      "panelbase": "基本选项",
+      "panelctrl": "控制器选项"
+    },
+    "clear_cache": {
+      "toast": "缓存的图片和歌曲已经清理"
+    },
+    "name_setting": {
+      "dialog_title": "输入设备名称",
+      "dialog_content": "给你的设备设置一个名字"
+    },
+    "reboot": {
+      "dialog_title": "重启控制器",
+      "dialog_content": "将断开控制器，重启成功后自动连接"
+    }
+  },
+  "effect": {
+    "bookmark_add": "已添加收藏",
+    "bookmark_delete": "已取消收藏"
+  },
+  "tabs": {
+    "ctrl": "设备主页",
+    "diy": "DIY",
+    "melody": "音乐律动",
+    "linkage": "设备群控"
+  },
+  "close": "关闭",
+  "delete": "删除",
+  "pselect": "请选择",
+  "cancel": "取消",
+  "sun": "周日",
+  "mon": "周一",
+  "tue": "周二",
+  "wed": "周三",
+  "thu": "周四",
+  "fri": "周五",
+  "sat": "周六"
+}

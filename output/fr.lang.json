@@ -1,0 +1,129 @@
+{
+  "cancel": "La suppression des",
+  "close": "La fermeture",
+  "ctrl": {
+    "clear_cache": {
+      "toast": "Le cache des images et des chansons a été nettoyé"
+    },
+    "name_setting": {
+      "dialog_content": "Donnez un nom à votre appareil",
+      "dialog_title": "Entrez le nom de l’appareil"
+    },
+    "reboot": {
+      "dialog_content": "Déconnectera le contrôleur et se connectera automatiquement après un redémarrage réussi",
+      "dialog_title": "Redémarrer le contrôleur"
+    },
+    "tools": {
+      "fixed": "fixes",
+      "light": "Définir la luminosité",
+      "panelbase": "Options de base",
+      "panelctrl": "Options du contrôleur",
+      "poweroff": "Est déjà éteint",
+      "poweron": "Est déjà activé",
+      "repeat": "Le cycle",
+      "setplaymode": "Définissez le mode de lecture sur",
+      "shakeoff": "Désactiver le mode shake",
+      "shakeon": "Activer le mode shake one",
+      "speed": "Définir la vitesse",
+      "twinkle": "Un flash"
+    }
+  },
+  "delete": "supprimé",
+  "device": {
+    "connect": "La connexion",
+    "connect_success": "Connectez-vous avec succès",
+    "connecting": "Connexion en cours",
+    "disconnect": "Connexion et déconnexion",
+    "select": "Choix des équipements"
+  },
+  "effect": {
+    "bookmark_add": "A été ajouté aux favoris",
+    "bookmark_delete": "A été annulé favoris"
+  },
+  "fri": "vendredi",
+  "mon": "lundi",
+  "pselect": "Veuillez sélectionner un",
+  "sat": "samedi",
+  "setting": {
+    "clearcache": {
+      "index": "Nettoyer votre cache"
+    },
+    "device": {
+      "index": "Choix des équipements"
+    },
+    "language": {
+      "index": "Choix de langue"
+    },
+    "layout": {
+      "change": "A adapté le layout à",
+      "horizon": "Rotation de 180 degrés",
+      "index": "Adaptation du layout",
+      "lr": "Gauche gauche flip",
+      "reset": "Réinitialisation du layout",
+      "tb": "Haut et bas"
+    },
+    "name": {
+      "index": "Paramètres par nom"
+    },
+    "ota": {
+      "date": "Date de l’édition",
+      "describe": "Notes de mise à jour de version",
+      "index": "Mise à niveau OTA",
+      "model": "Modèle de matériel",
+      "new_version": "Dernière version non",
+      "no": "Numéro actuel du dispositif connecté",
+      "tip": "Remarque: après la mise à jour redémarrera le contrôleur, après la connexion, vérifiez si la mise à jour a réussi",
+      "upgrade": "Mise à jour immédiate",
+      "version": "Numéro de version actuelle"
+    },
+    "parameter": {
+      "index": "Paramètres du contrôleur"
+    },
+    "reboot": {
+      "index": "La reprise"
+    },
+    "recovery": {
+      "index": "Initialisation d’usine"
+    },
+    "schedule": {
+      "actionoff": "éteignez",
+      "actionon": "Les lumières",
+      "add": "Ajouter des tâches programmées",
+      "index": "Tâches chronométrées",
+      "none": "Il n’y a plus de tâches à accomplir aujourd’hui",
+      "setaction": "Exécution des actions",
+      "setrepeat": "Définir une date de répétition",
+      "update": "Modifier une tâche programmée"
+    },
+    "security": {
+      "add": "Ajouter un mot de passe",
+      "clear": "Effacer le mot de passe",
+      "index": "Mot de passe sécurisé",
+      "inputnewpsd": "Veuillez entrer le code",
+      "inputnewpsd_re": "Veuillez entrer le mot de passe à nouveau",
+      "inputoldpsd": "Veuillez entrer le mot de passe original",
+      "regexp": {
+        "error_eq": "Deux mots de passe incohérents",
+        "error_new": "Nouveau mot de passe vide ou 4-16 caractères",
+        "error_old_eq": "Veuillez entrer le mot de passe original correct",
+        "error_old_valid": "Veuillez entrer un mot de passe original valide",
+        "error_origin": "Le mot de passe doit être de 4 à 16 caractères",
+        "success": "Définir un mot de passe terminé"
+      },
+      "update": "Changer votre mot de passe"
+    },
+    "theme": {
+      "index": "Changer de thème"
+    }
+  },
+  "sun": "dimanche",
+  "tabs": {
+    "ctrl": "Accueil des équipements",
+    "diy": "DIY",
+    "linkage": "Contrôle de groupe d’équipement",
+    "melody": "Le pouls musical"
+  },
+  "thu": "jeudi",
+  "tue": "mardi",
+  "wed": "mercredi"
+}

@@ -1,0 +1,129 @@
+{
+  "cancel": "cancelación",
+  "close": "cierre",
+  "ctrl": {
+    "clear_cache": {
+      "toast": "La caché de imágenes y canciones se ha limpiado"
+    },
+    "name_setting": {
+      "dialog_content": "Pon un nombre a tu dispositivo",
+      "dialog_title": "Introduzca el nombre del dispositivo"
+    },
+    "reboot": {
+      "dialog_content": "Desconectará el controlador y se conectará automáticamente después de reiniciar con éxito",
+      "dialog_title": "Reiniciar el controlador"
+    },
+    "tools": {
+      "fixed": "fija",
+      "light": "Establecer el brillo",
+      "panelbase": "La opción básica",
+      "panelctrl": "Opciones del controlador",
+      "poweroff": "desconectado",
+      "poweron": "Ya está encendido",
+      "repeat": "El ciclo",
+      "setplaymode": "Establecer el modo de reproducción a",
+      "shakeoff": "Cerrar el modo shake",
+      "shakeon": "Activar el modo shake one",
+      "speed": "Establecer la velocidad",
+      "twinkle": "destello"
+    }
+  },
+  "delete": "borrar",
+  "device": {
+    "connect": "La conexión",
+    "connect_success": "Conectado con éxito",
+    "connecting": "Se está conectando",
+    "disconnect": "Conectar y desconectar",
+    "select": "Selección de equipos"
+  },
+  "effect": {
+    "bookmark_add": "Ha sido añadido a favoritos",
+    "bookmark_delete": "Ha sido retirado de favoritos"
+  },
+  "fri": "viernes",
+  "mon": "lunes",
+  "pselect": "Por favor seleccione",
+  "sat": "El sábado",
+  "setting": {
+    "clearcache": {
+      "index": "Limpia tu caché"
+    },
+    "device": {
+      "index": "Selección de equipos"
+    },
+    "language": {
+      "index": "Selección de idiomas"
+    },
+    "layout": {
+      "change": "Ha adaptado el diseño a",
+      "horizon": "Gira 180 grados",
+      "index": "Ajustes de layout",
+      "lr": "Izquierda y derecha flip",
+      "reset": "Reinicio de layout",
+      "tb": "Arriba y abajo"
+    },
+    "name": {
+      "index": "Configuración del nombre"
+    },
+    "ota": {
+      "date": "Fecha de edición",
+      "describe": "Notas de actualización de versión",
+      "index": "Actualización de OTA",
+      "model": "Modelo de equipo",
+      "new_version": "Última versión no",
+      "no": "Número actual del dispositivo conectado",
+      "tip": "Nota: después de la actualización reiniciará el controlador, después de conectar para ver si la actualización fue exitosa",
+      "upgrade": "Actualizar ahora mismo",
+      "version": "Número de versión actual"
+    },
+    "parameter": {
+      "index": "Parámetros del controlador"
+    },
+    "reboot": {
+      "index": "reiniciar"
+    },
+    "recovery": {
+      "index": "Inicialización de fábrica"
+    },
+    "schedule": {
+      "actionoff": "Las luces",
+      "actionon": "Enciende la luz",
+      "add": "Añadir tareas programadas",
+      "index": "Tareas cronometradas",
+      "none": "Hoy ya no hay tareas que realizar",
+      "setaction": "Ejecutar la acción",
+      "setrepeat": "Establecer una fecha de repetición",
+      "update": "Modificar tareas programadas"
+    },
+    "security": {
+      "add": "Añadir una contraseña",
+      "clear": "Borrar la contraseña",
+      "index": "Contraseña segura",
+      "inputnewpsd": "Por favor introduzca el código",
+      "inputnewpsd_re": "Por favor, introduzca la contraseña de nuevo",
+      "inputoldpsd": "Por favor, introduzca la contraseña original",
+      "regexp": {
+        "error_eq": "Contraseñas inconsistentes dos veces",
+        "error_new": "Nueva contraseña vacío o 4-16 caracteres",
+        "error_old_eq": "Por favor, introduzca la contraseña original correcta",
+        "error_old_valid": "Por favor, introduzca una contraseña original válida",
+        "error_origin": "La contraseña debe tener entre 4 y 16 caracteres",
+        "success": "Establecer contraseña hecho"
+      },
+      "update": "Cambiar mi contraseña"
+    },
+    "theme": {
+      "index": "Cambiar de tema"
+    }
+  },
+  "sun": "domingo",
+  "tabs": {
+    "ctrl": "Equipo página principal",
+    "diy": "DIY",
+    "linkage": "Control de grupo de equipos",
+    "melody": "Pulsación musical"
+  },
+  "thu": "jueves",
+  "tue": "El martes",
+  "wed": "Miércoles."
+}

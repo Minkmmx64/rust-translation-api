@@ -1,0 +1,129 @@
+{
+  "cancel": "Cancel",
+  "close": "Off",
+  "ctrl": {
+    "clear_cache": {
+      "toast": "Cached images and songs have been cleaned"
+    },
+    "name_setting": {
+      "dialog_content": "Give your device a name",
+      "dialog_title": "Enter device name"
+    },
+    "reboot": {
+      "dialog_content": "The controller will be disconnected and automatically connected after a successful restart",
+      "dialog_title": "Restart controller"
+    },
+    "tools": {
+      "fixed": "immobilization",
+      "light": "Set brightness",
+      "panelbase": "Basic option",
+      "panelctrl": "Controller option",
+      "poweroff": "Power off",
+      "poweron": "Boot up",
+      "repeat": "Loop",
+      "setplaymode": "Set the play mode to",
+      "shakeoff": "Turn off Shake mode",
+      "shakeon": "Turn on Shake mode",
+      "speed": "Set speed",
+      "twinkle": "flash"
+    }
+  },
+  "delete": "delete",
+  "device": {
+    "connect": "join",
+    "connect_success": "Connection successful",
+    "connecting": "connecting",
+    "disconnect": "disconnect",
+    "select": "Equipment selection"
+  },
+  "effect": {
+    "bookmark_add": "Added to favorites",
+    "bookmark_delete": "uncollected"
+  },
+  "fri": "Friday",
+  "mon": "Monday",
+  "pselect": "Please select",
+  "sat": "Saturday",
+  "setting": {
+    "clearcache": {
+      "index": "Clear cache"
+    },
+    "device": {
+      "index": "Equipment selection"
+    },
+    "language": {
+      "index": "Language selection"
+    },
+    "layout": {
+      "change": "The layout has been adjusted to",
+      "horizon": "Rotate 180 degrees",
+      "index": "Layout adjustment",
+      "lr": "Flip side to side",
+      "reset": "Layout reset",
+      "tb": "Flip up and down"
+    },
+    "name": {
+      "index": "Name setting"
+    },
+    "ota": {
+      "date": "Release date",
+      "describe": "Version update note",
+      "index": "OTA upgrade",
+      "model": "Equipment type",
+      "new_version": "Latest version number",
+      "no": "Number of the currently connected device",
+      "tip": "Note: The controller will be restarted after the update. Connect the controller to check whether the update is successful",
+      "upgrade": "Update now",
+      "version": "Current version number"
+    },
+    "parameter": {
+      "index": "Controller parameter"
+    },
+    "reboot": {
+      "index": "Restart"
+    },
+    "recovery": {
+      "index": "Factory initialization"
+    },
+    "schedule": {
+      "actionoff": "Turn off the light",
+      "actionon": "Turn on the light",
+      "add": "Adding a Scheduled Task",
+      "index": "Scheduled task",
+      "none": "There are no more tasks to perform today",
+      "setaction": "Execution action",
+      "setrepeat": "Set repeat date",
+      "update": "Modifying a scheduled Task"
+    },
+    "security": {
+      "add": "Add password",
+      "clear": "Clear password",
+      "index": "Security code",
+      "inputnewpsd": "Please enter password",
+      "inputnewpsd_re": "Please enter your password again",
+      "inputoldpsd": "Please enter the old password",
+      "regexp": {
+        "error_eq": "Two passwords do not match",
+        "error_new": "The new password must be empty or 4-16 characters long",
+        "error_old_eq": "Please enter the correct old password",
+        "error_old_valid": "Please enter a valid old password",
+        "error_origin": "The password is 4-16 characters long",
+        "success": "Setting password Complete"
+      },
+      "update": "Change password"
+    },
+    "theme": {
+      "index": "Topic switching"
+    }
+  },
+  "sun": "Sunday",
+  "tabs": {
+    "ctrl": "Device home page",
+    "diy": "DIY",
+    "linkage": "Equipment group control",
+    "melody": "Musical rhythm"
+  },
+  "thu": "Thursday",
+  "tue": "Tuesday",
+  "wed": "Wednesday"
+}

@@ -1,0 +1,22 @@
+[package]
+name = "nlp_api"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+http-request = "8.0.2"
+sha256 = "1.5.0"
+reqwest = { version = "0.11", features = ["json"] }
+futures = "0.3.31"
+tokio = "1.42.0"
+async-std = { version = "1", features = ["attributes", "tokio1"] }
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+
+[dependencies.uuid]
+version = "1.11.0"
+features = [
+    "v4",                # Lets you generate random UUIDs
+    "fast-rng",          # Use a faster (but still sufficiently random) RNG
+    "macro-diagnostics", # Enable better diagnostics for compile-time UUIDs
+]

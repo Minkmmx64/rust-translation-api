@@ -1,0 +1,129 @@
+{
+  "cancel": "soppressione",
+  "close": "chiusura",
+  "ctrl": {
+    "clear_cache": {
+      "toast": "Le immagini di cache e le canzoni sono state ripulite"
+    },
+    "name_setting": {
+      "dialog_content": "Date un nome al dispositivo",
+      "dialog_title": "Inserire il nome dello strumento"
+    },
+    "reboot": {
+      "dialog_content": "Si sbloccheranno i comandi e si riattiveranno le connessioni automatiche dopo un successo",
+      "dialog_title": "Riavvio dei controllori"
+    },
+    "tools": {
+      "fixed": "fisso",
+      "light": "Determinazione della luminosità",
+      "panelbase": "Opzioni fondamentali",
+      "panelctrl": "Opzioni del controllore",
+      "poweroff": "arresto",
+      "poweron": "avviato",
+      "repeat": "ciclo",
+      "setplaymode": "Fissare lo schema di esercizio come segue",
+      "shakeoff": "Spegnete lo schema",
+      "shakeon": "agitare",
+      "speed": "Velocità di regolazione",
+      "twinkle": "mob"
+    }
+  },
+  "delete": "cancellare",
+  "device": {
+    "connect": "connessione",
+    "connect_success": "Collegare i successi",
+    "connecting": "Il collegamento in rete",
+    "disconnect": "Interruzione della connessione",
+    "select": "Scelta delle attrezzature"
+  },
+  "effect": {
+    "bookmark_add": "Sono state aggiunte collezioni",
+    "bookmark_delete": "Annullamento di collezioni"
+  },
+  "fri": "venerdì",
+  "mon": "lunedì",
+  "pselect": "selezione",
+  "sat": "sabato",
+  "setting": {
+    "clearcache": {
+      "index": "Recupero ritardato"
+    },
+    "device": {
+      "index": "Scelta delle attrezzature"
+    },
+    "language": {
+      "index": "Scelta delle lingue"
+    },
+    "layout": {
+      "change": "Lo schema è stato modificato",
+      "horizon": "180 gradi di rotazione",
+      "index": "Adattamento del layout",
+      "lr": "Verso destra e verso sinistra",
+      "reset": "Riduzione del layout",
+      "tb": "Rotazione su e giù"
+    },
+    "name": {
+      "index": "Definizione della denominazione"
+    },
+    "ota": {
+      "date": "Data di pubblicazione",
+      "describe": "Nota di aggiornamento della versione",
+      "index": "Evoluzione dell’ota",
+      "model": "Modello di macchina",
+      "new_version": "Ultimo numero",
+      "no": "L’attuale numero di connessione",
+      "tip": "N. B. : riattiveremo il controllo una volta aggiornato, e dopo la connessione verificheremo se l’aggiornamento ha avuto successo",
+      "upgrade": "Aggiornamento immediato",
+      "version": "Numero attuale"
+    },
+    "parameter": {
+      "index": "Parametri di controllo"
+    },
+    "reboot": {
+      "index": "riavvio"
+    },
+    "recovery": {
+      "index": "Prefabbricazione in fabbrica"
+    },
+    "schedule": {
+      "actionoff": "Le luci",
+      "actionon": "Accendere le luci",
+      "add": "Aggiunta di un mandato",
+      "index": "Un calendario",
+      "none": "Oggi non ci sono più compiti da svolgere",
+      "setaction": "Azioni di esecuzione",
+      "setrepeat": "Fissazione di date ripetute",
+      "update": "Modifica del calendario"
+    },
+    "security": {
+      "add": "Aggiungere password",
+      "clear": "Codice chiuso",
+      "index": "Codice di sicurezza",
+      "inputnewpsd": "Digitare la parola d’ordine",
+      "inputnewpsd_re": "Per favore digitate di nuovo la password",
+      "inputoldpsd": "Per favore digitate la password originale",
+      "regexp": {
+        "error_eq": "La password non è coerente",
+        "error_new": "La nuova password è vuota o da 4 a 16 caratteri",
+        "error_old_eq": "Digitare la password originale corretta",
+        "error_old_valid": "Digitare la password originale valida",
+        "error_origin": "Le password vanno da 4 a 16 caratteri",
+        "success": "Definite la password"
+      },
+      "update": "Modifica della password"
+    },
+    "theme": {
+      "index": "Temi in movimento"
+    }
+  },
+  "sun": "domenica",
+  "tabs": {
+    "ctrl": "Home page delle apparecchiature",
+    "diy": "DIY",
+    "linkage": "Controllo del gruppo di apparecchiature",
+    "melody": "Gli avvocati della musica"
+  },
+  "thu": "giovedì",
+  "tue": "martedì",
+  "wed": "mercoledì"
+}

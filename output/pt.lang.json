@@ -1,0 +1,129 @@
+{
+  "cancel": "cancelar",
+  "close": "encerramento",
+  "ctrl": {
+    "clear_cache": {
+      "toast": "O cache de imagens e músicas foi limpo"
+    },
+    "name_setting": {
+      "dialog_content": "Definir um nome para o seu dispositivo",
+      "dialog_title": "Digite o nome do dispositivo"
+    },
+    "reboot": {
+      "dialog_content": "Desconectará o controlador e conectará automaticamente após a reinicialização bem sucedida",
+      "dialog_title": "Reiniciar o controlador"
+    },
+    "tools": {
+      "fixed": "fixo",
+      "light": "Definir o brilho",
+      "panelbase": "As opções básicas",
+      "panelctrl": "Opções do controlador",
+      "poweroff": "Está desligado já",
+      "poweron": "Já está ligado",
+      "repeat": "circulação",
+      "setplaymode": "Definir o modo de reprodução para",
+      "shakeoff": "Desligue o modo shake",
+      "shakeon": "Abra o modo shake",
+      "speed": "Defina a velocidade",
+      "twinkle": "Piscar um pouco"
+    }
+  },
+  "delete": "apagar",
+  "device": {
+    "connect": "ligação",
+    "connect_success": "Conectado com sucesso",
+    "connecting": "Está se conectando",
+    "disconnect": "Conectar e desconectar",
+    "select": "Escolha do equipamento"
+  },
+  "effect": {
+    "bookmark_add": "Foi adicionado aos favoritos",
+    "bookmark_delete": "Favoritos já cancelados"
+  },
+  "fri": "Sexta-feira",
+  "mon": "Segunda-feira",
+  "pselect": "Por favor selecione",
+  "sat": "No sábado",
+  "setting": {
+    "clearcache": {
+      "index": "Limpar o cache"
+    },
+    "device": {
+      "index": "Escolha do equipamento"
+    },
+    "language": {
+      "index": "Seleção de idiomas"
+    },
+    "layout": {
+      "change": "O layout foi ajustado para",
+      "horizon": "Rotação de 180 graus",
+      "index": "Ajuste do layout",
+      "lr": "Esquerda e direita flip",
+      "reset": "Restauração do layout",
+      "tb": "Cima e baixo flip"
+    },
+    "name": {
+      "index": "Configuração pelo nome"
+    },
+    "ota": {
+      "date": "Data da edição",
+      "describe": "Instruções de atualização de versão",
+      "index": "Atualização de OTA",
+      "model": "Modelo do equipamento",
+      "new_version": "Última versão não",
+      "no": "Número atual do dispositivo conectado",
+      "tip": "Nota: reiniciará o controlador após a atualização, verifique se a atualização foi bem sucedida após a conexão",
+      "upgrade": "Atualize agora mesmo",
+      "version": "Número da versão atual"
+    },
+    "parameter": {
+      "index": "Parâmetros do controlador"
+    },
+    "reboot": {
+      "index": "reiniciar"
+    },
+    "recovery": {
+      "index": "Inicialização de fábrica"
+    },
+    "schedule": {
+      "actionoff": "Luzes.",
+      "actionon": "Acende a luz.",
+      "add": "Adicionar tarefas programadas",
+      "index": "Cronometrar uma tarefa",
+      "none": "Não há mais tarefas para executar hoje",
+      "setaction": "Execute a ação",
+      "setrepeat": "Definir uma data de repetição",
+      "update": "Modificar tarefas programadas"
+    },
+    "security": {
+      "add": "Adicionar uma senha",
+      "clear": "Limpar a senha",
+      "index": "Senha de segurança",
+      "inputnewpsd": "Por favor insira o código",
+      "inputnewpsd_re": "Por favor, digite a senha novamente",
+      "inputoldpsd": "Digite a senha original",
+      "regexp": {
+        "error_eq": "Duas senhas inconsistentes",
+        "error_new": "Nova senha em branco ou 4-16 caracteres",
+        "error_old_eq": "Por favor, insira a senha original correta",
+        "error_old_valid": "Por favor, insira uma senha original válida",
+        "error_origin": "A senha deve ter entre 4 e 16 caracteres",
+        "success": "Definir senha concluído"
+      },
+      "update": "Alterar sua senha"
+    },
+    "theme": {
+      "index": "Alternância de tópicos"
+    }
+  },
+  "sun": "No domingo",
+  "tabs": {
+    "ctrl": "Equipamento home page",
+    "diy": "DIY",
+    "linkage": "Controle de grupo de equipamentos",
+    "melody": "Batida na música"
+  },
+  "thu": "Quinta-feira",
+  "tue": "Terça-feira",
+  "wed": "Quarta-feira"
+}

@@ -1,0 +1,129 @@
+{
+  "cancel": "취소",
+  "close": "닫기",
+  "ctrl": {
+    "clear_cache": {
+      "toast": "캐시된 그림과 노래가 삭제되었습니다"
+    },
+    "name_setting": {
+      "dialog_content": "장치에 이름을 입력하십시오",
+      "dialog_title": "장치 이름 입력"
+    },
+    "reboot": {
+      "dialog_content": "컨트롤러를 끊습니다. 다시 시작하면 자동으로 연결됩니다",
+      "dialog_title": "컨트롤러 다시 시작"
+    },
+    "tools": {
+      "fixed": "고정",
+      "light": "밝기 설정",
+      "panelbase": "기본 옵션",
+      "panelctrl": "컨트롤러 옵션",
+      "poweroff": "컴퓨터 꺼짐",
+      "poweron": "이미 촬영을 시작하다",
+      "repeat": "순환",
+      "setplaymode": "재생 모드를 설정합니다",
+      "shakeoff": "스윙 모드를 끕니다",
+      "shakeon": "흔들기 모드를 켭니다",
+      "speed": "속도 설정",
+      "twinkle": "한번 번쩍이다"
+    }
+  },
+  "delete": "삭제",
+  "device": {
+    "connect": "연결",
+    "connect_success": "연결 성공",
+    "connecting": "연결 중",
+    "disconnect": "연결 해제",
+    "select": "장치 선택"
+  },
+  "effect": {
+    "bookmark_add": "모음집 추가",
+    "bookmark_delete": "모음집 취소됨"
+  },
+  "fri": "금요일",
+  "mon": "월요일",
+  "pselect": "선택하십시오",
+  "sat": "토요일",
+  "setting": {
+    "clearcache": {
+      "index": "캐시 지우기"
+    },
+    "device": {
+      "index": "장치 선택"
+    },
+    "language": {
+      "index": "언어 선택"
+    },
+    "layout": {
+      "change": "레이아웃이 다음으로 조정되었습니다",
+      "horizon": "180도 회전하다",
+      "index": "포석 조정",
+      "lr": "좌우로 뒤집기",
+      "reset": "레이아웃 리셋",
+      "tb": "위아래로 뒤집다"
+    },
+    "name": {
+      "index": "이름 설정"
+    },
+    "ota": {
+      "date": "버전 날짜",
+      "describe": "버전 업데이트 설명",
+      "index": "ota 업그레이드",
+      "model": "설비 모델",
+      "new_version": "최신 버전 번호",
+      "no": "현재 연결 장치 번호입니다",
+      "tip": "참고:컨트롤러는 업데이트 후 다시 시작됩니다. 연결 후 업데이트가 성공했는지 확인하십시오",
+      "upgrade": "지금 업데이트",
+      "version": "현재 버전 번호"
+    },
+    "parameter": {
+      "index": "컨트롤러 인자"
+    },
+    "reboot": {
+      "index": "재개"
+    },
+    "recovery": {
+      "index": "출고 초기화"
+    },
+    "schedule": {
+      "actionoff": "전등 끄기",
+      "actionon": "전등을 켜",
+      "add": "시간 제한 작업 추가",
+      "index": "정해진 임무",
+      "none": "오늘날에는 더 이상 수행해야 할 임무가 없다",
+      "setaction": "동작을 실행하다",
+      "setrepeat": "반복되는 날짜 설정",
+      "update": "정해진 임무 수정"
+    },
+    "security": {
+      "add": "비밀번호 추가",
+      "clear": "비밀번호 지우기",
+      "index": "보안 패스워드",
+      "inputnewpsd": "비밀번호를 입력하십시오.",
+      "inputnewpsd_re": "비밀번호를 다시 입력하십시오",
+      "inputoldpsd": "원래 비밀번호를 입력하십시오",
+      "regexp": {
+        "error_eq": "비밀번호가 일치하지 않습니다",
+        "error_new": "새 비밀번호는 비어 있거나 4-16자 사이입니다",
+        "error_old_eq": "원래의 비밀번호를 정확하게 입력하십시오",
+        "error_old_valid": "올바른 원래 비밀번호를 입력하십시오",
+        "error_origin": "비밀번호는 4-16자 사이이다",
+        "success": "비밀번호 설정 완료"
+      },
+      "update": "비밀번호 변경"
+    },
+    "theme": {
+      "index": "테마 전환"
+    }
+  },
+  "sun": "일요일",
+  "tabs": {
+    "ctrl": "장치 홈 페이지",
+    "diy": "diy",
+    "linkage": "설비 그룹제어",
+    "melody": "음악이 율동적이다."
+  },
+  "thu": "목요일",
+  "tue": "화요일",
+  "wed": "수요일"
+}

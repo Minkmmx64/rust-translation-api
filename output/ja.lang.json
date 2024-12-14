@@ -1,0 +1,129 @@
+{
+  "cancel": "取り消します",
+  "close": "閉鎖します",
+  "ctrl": {
+    "clear_cache": {
+      "toast": "キャッシュされた画像と曲はクリーンアップされました"
+    },
+    "name_setting": {
+      "dialog_content": "デバイスに名前を付けます",
+      "dialog_title": "デバイス名を入力します"
+    },
+    "reboot": {
+      "dialog_content": "コントローラを切断し,再起動に成功すれば自動的に接続します",
+      "dialog_title": "再起動コントローラです"
+    },
+    "tools": {
+      "fixed": "固定します",
+      "light": "明るさを設定します",
+      "panelbase": "基本オプションです",
+      "panelctrl": "コントローラオプションです",
+      "poweroff": "電源切りました",
+      "poweron": "電源を入れました",
+      "repeat": "循環します",
+      "setplaymode": "再生モードを設定します。",
+      "shakeoff": "パンクモードをオフにします",
+      "shakeon": "パンクモードにします",
+      "speed": "設定速度です",
+      "twinkle": "フラッシュします"
+    }
+  },
+  "delete": "削除します",
+  "device": {
+    "connect": "接続します",
+    "connect_success": "接続成功です",
+    "connecting": "接続しています",
+    "disconnect": "接続が切れます",
+    "select": "デバイス選択です"
+  },
+  "effect": {
+    "bookmark_add": "追加されました",
+    "bookmark_delete": "収蔵取り消しになりました"
+  },
+  "fri": "金曜日です",
+  "mon": "月曜日です",
+  "pselect": "選択をお願いします",
+  "sat": "土曜日です",
+  "setting": {
+    "clearcache": {
+      "index": "キャッシュを整理します"
+    },
+    "device": {
+      "index": "デバイス選択です"
+    },
+    "language": {
+      "index": "言語選択です"
+    },
+    "layout": {
+      "change": "配置を調整しました",
+      "horizon": "180度回転します",
+      "index": "配置調整です",
+      "lr": "左右反転します",
+      "reset": "レイアウトリセットです",
+      "tb": "上下反転します"
+    },
+    "name": {
+      "index": "名称設定です"
+    },
+    "ota": {
+      "date": "バージョンの日付です",
+      "describe": "アップデートの説明です",
+      "index": "OTAアップグレードです",
+      "model": "機器の型番です",
+      "new_version": "最新バージョン番号です",
+      "no": "現在の接続機器番号です",
+      "tip": "注意:アップデート後にコントローラを再起動し、接続後にアップデートが成功したかどうかを確認します。",
+      "upgrade": "すぐに更新します",
+      "version": "現在のバージョン番号です"
+    },
+    "parameter": {
+      "index": "コントローラのパラメータです"
+    },
+    "reboot": {
+      "index": "再開します"
+    },
+    "recovery": {
+      "index": "初期化されます"
+    },
+    "schedule": {
+      "actionoff": "電気を消します",
+      "actionon": "電気をつけます",
+      "add": "タイミングタスクを追加します",
+      "index": "定時任務です",
+      "none": "今日はもうやるべきことはありません",
+      "setaction": "動作を実行します",
+      "setrepeat": "重複日付を設定します。",
+      "update": "定時タスクの変更です"
+    },
+    "security": {
+      "add": "パスワードを追加します",
+      "clear": "パスワードを消去します",
+      "index": "セキュリティパスワードです",
+      "inputnewpsd": "パスワードをお願いします",
+      "inputnewpsd_re": "パスワードの再入力をお願いします",
+      "inputoldpsd": "元のパスワードをお願いします。",
+      "regexp": {
+        "error_eq": "パスワードが2回一致しません",
+        "error_new": "新しいパスワードは空または4 ~ 16文字です",
+        "error_old_eq": "正しい元パスワードをお願いします。",
+        "error_old_valid": "有効な元パスワードをお願いします。",
+        "error_origin": "パスワードは4 ~ 16文字です",
+        "success": "パスワード設定完了です"
+      },
+      "update": "パスワードを変更します"
+    },
+    "theme": {
+      "index": "テーマが変わります"
+    }
+  },
+  "sun": "日曜日です",
+  "tabs": {
+    "ctrl": "設備ホームページ",
+    "diy": "DIYです",
+    "linkage": "デバイス群制御です",
+    "melody": "音楽ダンス"
+  },
+  "thu": "木曜日です",
+  "tue": "火曜日です",
+  "wed": "水曜日です"
+}

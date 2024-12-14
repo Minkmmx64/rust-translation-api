@@ -1,0 +1,129 @@
+{
+  "cancel": "korrekt",
+  "close": "Noch näher.",
+  "ctrl": {
+    "clear_cache": {
+      "toast": "Das video und die songs auf bewährung sind raus"
+    },
+    "name_setting": {
+      "dialog_content": "Geben sie ihrem gerät einen namen",
+      "dialog_title": "Geben sie den namen des laufgeräts ein"
+    },
+    "reboot": {
+      "dialog_content": "Ein leitungsnetz wird geöffnet und die automatische verbindung wiederhergestellt",
+      "dialog_title": "Setzt die steuerung zurück"
+    },
+    "tools": {
+      "fixed": "Permanent.",
+      "light": "Helligkeit einstellen",
+      "panelbase": "Allgemeine optionen.",
+      "panelctrl": "Startereinstellungen.",
+      "poweroff": "Telefon aus.",
+      "poweron": "Computer an.",
+      "repeat": "Ein kreislauf?",
+      "setplaymode": "Setze auf abspielmodus",
+      "shakeoff": "Schau auf die schaukel",
+      "shakeon": "Startet den schaukelmodus",
+      "speed": "Geschwindigkeit einstellen",
+      "twinkle": "Ich werde dich"
+    }
+  },
+  "delete": "Löschen.",
+  "device": {
+    "connect": "Stecker ist drin.",
+    "connect_success": "Verbindung erfolgreich.",
+    "connecting": "Verbindung hergestellt.",
+    "disconnect": "Leitung unterbrochen.",
+    "select": "Geräte und ausstattung."
+  },
+  "effect": {
+    "bookmark_add": "Sammlung hinzugefügt.",
+    "bookmark_delete": "\"Die sammlung wurde abgesagt.\""
+  },
+  "fri": "freitag",
+  "mon": "Am montag.",
+  "pselect": "Wählen sie aus.",
+  "sat": "samstag",
+  "setting": {
+    "clearcache": {
+      "index": "Das getriebe ist Leer."
+    },
+    "device": {
+      "index": "Geräte und ausstattung."
+    },
+    "language": {
+      "index": "Freie wahl der sprachen"
+    },
+    "layout": {
+      "change": "Ich hab das grundmaterial angepasst",
+      "horizon": "Dreh um 180 grad.",
+      "index": "Das ist die einrichtung.",
+      "lr": "Nach rechts und nach links.",
+      "reset": "Einen schaltplan.",
+      "tb": "Hoch und runter, hoch und runter."
+    },
+    "name": {
+      "index": "Tue es"
+    },
+    "ota": {
+      "date": "Versionen datum",
+      "describe": "Aktualisierungen des programms",
+      "index": "OTA upgrade.",
+      "model": "Modell der ausrüstung?",
+      "new_version": "Neuste ausgabe.",
+      "no": "Aktuelle verbindung zur verbindung",
+      "tip": "Beachten sie: beim aktualisieren wird die steuerung wiederhergestellt, danach kontrolliert, ob die dateien erfolgreich sind",
+      "upgrade": "Aktualisierung unverzüglich.",
+      "version": "Aktuelle ausgabe."
+    },
+    "parameter": {
+      "index": "Das ist wie ein kontrollpunkt."
+    },
+    "reboot": {
+      "index": "Reset."
+    },
+    "recovery": {
+      "index": "Beginne mit dem werk."
+    },
+    "schedule": {
+      "actionoff": "Die lichter!",
+      "actionon": "Licht ist an.",
+      "add": "Timer hinzufügen.",
+      "index": "Zeitbefehl.",
+      "none": "Es bedarf heute keiner mission",
+      "setaction": "Was jetzt? - action!",
+      "setrepeat": "Setze das datum wiederholt.",
+      "update": "Terminplan ändern."
+    },
+    "security": {
+      "add": "Passwort hinzufügen",
+      "clear": "Der zugangs-code.",
+      "index": "Ein sicherheitscode.",
+      "inputnewpsd": "Code eingeben.",
+      "inputnewpsd_re": "Bitte geben sie ihr passwort nochmal ein",
+      "inputoldpsd": "Bitte geben sie den originalcode ein",
+      "regexp": {
+        "error_eq": "Beide codes stimmen nicht überein",
+        "error_new": "Neues passwort ist Leer Oder 4-16 zeichen",
+        "error_old_eq": "Bitte geben sie das richtige originalpasswort ein",
+        "error_old_valid": "Bitte geben sie ein gültiges original ein",
+        "error_origin": "Die geheimzahl beträgt 4-16 zeichen",
+        "success": "Passwort eingegeben."
+      },
+      "update": "Codes ändern."
+    },
+    "theme": {
+      "index": "Totalwechsel."
+    }
+  },
+  "sun": "sonntag",
+  "tabs": {
+    "ctrl": "Die homepage Von gerät",
+    "diy": "DIY",
+    "linkage": "Steuerung an der kapsel.",
+    "melody": "Hauptsächlich musik."
+  },
+  "thu": "Donnerstag - 12:05 uhr",
+  "tue": "dienstag",
+  "wed": "Mittwoch - 9:15 uhr"
+}
